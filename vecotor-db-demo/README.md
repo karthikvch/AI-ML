@@ -14,6 +14,7 @@ Text → Embedding Model → Vector
 
 ## 3. Embedding Model
 
+
 Example:
 
 all-MiniLM-L6-v2
