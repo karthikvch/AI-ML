@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+.env.*
+*.log
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.idea/
+.vscode/
+.DS_Store
+
+# local data / generated files
+chroma/
+vectorstore/
+*.sqlite3
+*.db

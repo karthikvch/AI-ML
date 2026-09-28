@@ -21,7 +21,7 @@ OLLAMA_URL = "http://localhost:11434/api/generate"
 
 # Use the model you currently have.
 # If you later install qwen3:4b, change this to "qwen3:4b".
-OLLAMA_MODEL = "qwen3:8b"
+OLLAMA_MODEL = "qwen3:4b"
 
 TOP_K = 5
 
